@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.AssemblyInfo.cs
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\bin\Debug\net6.0\DesignPatternsExamples.exe
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\bin\Debug\net6.0\DesignPatternsExamples.deps.json
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\bin\Debug\net6.0\DesignPatternsExamples.runtimeconfig.json
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\bin\Debug\net6.0\DesignPatternsExamples.dll
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\bin\Debug\net6.0\DesignPatternsExamples.pdb
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.dll
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\refint\DesignPatternsExamples.dll
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.pdb
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\DesignPatternsExamples.genruntimeconfig.cache
+C:\Users\PC\Documents\mydocs\trabajo\DesignPatterns\DesignPatternsExamples\DesignPatternsExamples\obj\Debug\net6.0\ref\DesignPatternsExamples.dll
